@@ -5,6 +5,30 @@
             "symbol": "MOON",
             "decimals": 18,
             "id": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299"
+        },
+        {
+            "name": "Wrapped Drip",
+            "symbol": "WDRIP",
+            "decimals": 18,
+            "id": "0xf30224eb7104aca47235beb3362e331ece70616a"
+        },
+        {
+            "name": "sDOG",
+            "symbol": "sDOG",
+            "decimals": 18,
+            "id": "0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6"
+        },
+        {
+            "name": "FutureStarter",
+            "symbol": "FS",
+            "decimals": 18,
+            "id": "0xbc0d0650412ef353d672c0bbd12efff90591b251"
+        },
+        {
+            "name": "GOGGLES",
+            "symbol": "GOGLZ",
+            "decimals": 18,
+            "id": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564"
         }
     ]
 }
