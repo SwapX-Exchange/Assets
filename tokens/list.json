@@ -47,6 +47,12 @@
             "symbol": "HEDGY",
             "decimals": 18,
             "id": "0x6fb9897896fe5d05025eb43306675727887d0b7c"
+        },
+        {
+            "name": "Aurum Sonic USDC",
+            "symbol": "auUSDC",
+            "decimals": 6,
+            "id": "0xd6a69ebfa44f78cee454a2df2c77751a42f8f38c"
         }
     ]
 }
