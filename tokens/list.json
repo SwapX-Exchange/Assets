@@ -53,6 +53,12 @@
             "symbol": "auUSDC",
             "decimals": 6,
             "id": "0xd6a69ebfa44f78cee454a2df2c77751a42f8f38c"
+        },
+        {
+            "name": "PHANIC",
+            "symbol": "PHANIC",
+            "decimals": 18,
+            "id": "0xb4f58eeabe36711d72e99f35cbf36210561522be"
         }
     ]
 }
