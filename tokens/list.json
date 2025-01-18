@@ -65,6 +65,12 @@
             "symbol": "FIERY",
             "decimals": 18,
             "id": "0xf97d438bc03ad0f75b83ce5714c9619880b305bc"
+        },
+        {
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "decimals": 18,
+            "id": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
         }
     ]
 }
